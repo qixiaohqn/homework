@@ -5,12 +5,12 @@
 4、求斐波那契数列 1 2 3 5 8 13 ⋯⋯
 5、求10000以内的质数
 '''
-from itertools import count
+
 
 
 class lianxi(object):
 #1、求10阶乘
-    def factorial(self):
+    def factorial_list(self):
 #定义变量，x、i，x存放累加的指，i 自增变量
         x=1
         i=1
