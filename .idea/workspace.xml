@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691e6521-3d7b-486d-befc-13ed08ae1f84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data.tx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitcase/daoruyichang.py" beforeDir="false" afterPath="$PROJECT_DIR$/unitcase/daoruyichang.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
       <recent name="$PROJECT_DIR$/unitcase" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.daoruyichang">
+  <component name="RunManager" selected="Python.read_data">
     <configuration name="check_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +123,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="read_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.read_data" />
         <item itemvalue="Python.daoruyichang" />
         <item itemvalue="Python.function_homework" />
         <item itemvalue="Python.check_tool" />
@@ -149,26 +172,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593241964708" />
-    <state width="1364" height="144" key="GridCell.Tab.0.bottom" timestamp="1593677067805">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state x="482" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593940103415">
+      <screen x="51" y="23" width="1389" height="877" />
+    </state>
+    <state x="482" y="271" key="#com.intellij.fileTypes.FileTypeChooser/51.23.1389.877@51.23.1389.877" timestamp="1593940103415" />
+    <state width="1364" height="144" key="GridCell.Tab.0.bottom" timestamp="1593942336270">
+      <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1419" height="154" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593526656480" />
-    <state width="1364" height="144" key="GridCell.Tab.0.bottom/55.23.1385.877@55.23.1385.877" timestamp="1593677067805" />
-    <state width="1364" height="144" key="GridCell.Tab.0.center" timestamp="1593677067804">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="144" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1593942336270" />
+    <state width="1364" height="144" key="GridCell.Tab.0.bottom/55.23.1385.877@55.23.1385.877" timestamp="1593941363476" />
+    <state width="1364" height="144" key="GridCell.Tab.0.center" timestamp="1593942336269">
+      <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1419" height="154" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593526656478" />
-    <state width="1364" height="144" key="GridCell.Tab.0.center/55.23.1385.877@55.23.1385.877" timestamp="1593677067804" />
-    <state width="1364" height="144" key="GridCell.Tab.0.left" timestamp="1593677067803">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="144" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1593942336269" />
+    <state width="1364" height="144" key="GridCell.Tab.0.center/55.23.1385.877@55.23.1385.877" timestamp="1593941363475" />
+    <state width="1364" height="144" key="GridCell.Tab.0.left" timestamp="1593942336269">
+      <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1419" height="154" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593526656477" />
-    <state width="1364" height="144" key="GridCell.Tab.0.left/55.23.1385.877@55.23.1385.877" timestamp="1593677067803" />
-    <state width="1364" height="144" key="GridCell.Tab.0.right" timestamp="1593677067804">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="144" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1593942336269" />
+    <state width="1364" height="144" key="GridCell.Tab.0.left/55.23.1385.877@55.23.1385.877" timestamp="1593941363474" />
+    <state width="1364" height="144" key="GridCell.Tab.0.right" timestamp="1593942336269">
+      <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1419" height="154" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593526656479" />
-    <state width="1364" height="144" key="GridCell.Tab.0.right/55.23.1385.877@55.23.1385.877" timestamp="1593677067804" />
+    <state width="1364" height="144" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1593942336269" />
+    <state width="1364" height="144" key="GridCell.Tab.0.right/55.23.1385.877@55.23.1385.877" timestamp="1593941363475" />
     <state width="1419" height="234" key="GridCell.Tab.1.bottom" timestamp="1593311452822">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
