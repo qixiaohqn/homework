@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691e6521-3d7b-486d-befc-13ed08ae1f84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_tool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_write_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_write_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitcase/function_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/unitcase/function_homework.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,49 @@
       <recent name="$PROJECT_DIR$/unitcase" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.read_data">
+  <component name="RunManager" selected="Python.Student">
+    <configuration name="Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="check_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,28 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unitcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unitcase/function_homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read_write_io" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,28 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unitcase/lianxi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="read_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_write_io.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.read_data" />
-        <item itemvalue="Python.daoruyichang" />
-        <item itemvalue="Python.function_homework" />
+        <item itemvalue="Python.Student" />
+        <item itemvalue="Python.Person" />
         <item itemvalue="Python.check_tool" />
-        <item itemvalue="Python.lianxi" />
+        <item itemvalue="Python.read_write_io" />
+        <item itemvalue="Python.daoruyichang" />
       </list>
     </recent_temporary>
   </component>
@@ -168,62 +171,67 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="429" y="83" key="#Student" timestamp="1594172981909">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="83" key="#Student/0.0.1440.900@0.0.1440.900" timestamp="1594172981909" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593241964708">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593241964708" />
-    <state x="482" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593940103415">
-      <screen x="51" y="23" width="1389" height="877" />
+    <state x="447" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594170856546">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="447" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594170856546" />
     <state x="482" y="271" key="#com.intellij.fileTypes.FileTypeChooser/51.23.1389.877@51.23.1389.877" timestamp="1593940103415" />
-    <state width="1364" height="224" key="GridCell.Tab.0.bottom" timestamp="1593943839293">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom" timestamp="1594173349449">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="154" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593526656480" />
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594173349449" />
     <state width="1364" height="144" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1593942818073" />
-    <state width="1364" height="224" key="GridCell.Tab.0.bottom/55.23.1385.877@55.23.1385.877" timestamp="1593943839293" />
-    <state width="1364" height="224" key="GridCell.Tab.0.center" timestamp="1593943839292">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="238" key="GridCell.Tab.0.bottom/55.23.1385.877@55.23.1385.877" timestamp="1594169728420" />
+    <state width="1419" height="238" key="GridCell.Tab.0.center" timestamp="1594173349448">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="154" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593526656478" />
+    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594173349448" />
     <state width="1364" height="144" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1593942818072" />
-    <state width="1364" height="224" key="GridCell.Tab.0.center/55.23.1385.877@55.23.1385.877" timestamp="1593943839292" />
-    <state width="1364" height="224" key="GridCell.Tab.0.left" timestamp="1593943839291">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="238" key="GridCell.Tab.0.center/55.23.1385.877@55.23.1385.877" timestamp="1594169728419" />
+    <state width="1419" height="238" key="GridCell.Tab.0.left" timestamp="1594173349447">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="154" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593526656477" />
+    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594173349447" />
     <state width="1364" height="144" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1593942818071" />
-    <state width="1364" height="224" key="GridCell.Tab.0.left/55.23.1385.877@55.23.1385.877" timestamp="1593943839291" />
-    <state width="1364" height="224" key="GridCell.Tab.0.right" timestamp="1593943839292">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="238" key="GridCell.Tab.0.left/55.23.1385.877@55.23.1385.877" timestamp="1594169728418" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right" timestamp="1594173349449">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="154" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593526656479" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594173349449" />
     <state width="1364" height="144" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1593942818072" />
-    <state width="1364" height="224" key="GridCell.Tab.0.right/55.23.1385.877@55.23.1385.877" timestamp="1593943839292" />
-    <state width="1364" height="219" key="GridCell.Tab.1.bottom" timestamp="1593943285871">
+    <state width="1364" height="238" key="GridCell.Tab.0.right/55.23.1385.877@55.23.1385.877" timestamp="1594169728419" />
+    <state width="1364" height="219" key="GridCell.Tab.1.bottom" timestamp="1594003438827">
       <screen x="55" y="23" width="1385" height="877" />
     </state>
     <state width="1419" height="234" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593311452822" />
     <state width="1364" height="219" key="GridCell.Tab.1.bottom/53.23.1387.877@53.23.1387.877" timestamp="1593942731486" />
-    <state width="1364" height="219" key="GridCell.Tab.1.bottom/55.23.1385.877@55.23.1385.877" timestamp="1593943285871" />
-    <state width="1364" height="219" key="GridCell.Tab.1.center" timestamp="1593943285869">
+    <state width="1364" height="219" key="GridCell.Tab.1.bottom/55.23.1385.877@55.23.1385.877" timestamp="1594003438827" />
+    <state width="1364" height="219" key="GridCell.Tab.1.center" timestamp="1594003438826">
       <screen x="55" y="23" width="1385" height="877" />
     </state>
     <state width="1419" height="234" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593311452821" />
     <state width="1364" height="219" key="GridCell.Tab.1.center/53.23.1387.877@53.23.1387.877" timestamp="1593942731485" />
-    <state width="1364" height="219" key="GridCell.Tab.1.center/55.23.1385.877@55.23.1385.877" timestamp="1593943285869" />
-    <state width="1364" height="219" key="GridCell.Tab.1.left" timestamp="1593943285869">
+    <state width="1364" height="219" key="GridCell.Tab.1.center/55.23.1385.877@55.23.1385.877" timestamp="1594003438826" />
+    <state width="1364" height="219" key="GridCell.Tab.1.left" timestamp="1594003438826">
       <screen x="55" y="23" width="1385" height="877" />
     </state>
     <state width="1419" height="234" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593311452820" />
     <state width="1364" height="219" key="GridCell.Tab.1.left/53.23.1387.877@53.23.1387.877" timestamp="1593942731484" />
-    <state width="1364" height="219" key="GridCell.Tab.1.left/55.23.1385.877@55.23.1385.877" timestamp="1593943285869" />
-    <state width="1364" height="219" key="GridCell.Tab.1.right" timestamp="1593943285869">
+    <state width="1364" height="219" key="GridCell.Tab.1.left/55.23.1385.877@55.23.1385.877" timestamp="1594003438826" />
+    <state width="1364" height="219" key="GridCell.Tab.1.right" timestamp="1594003438827">
       <screen x="55" y="23" width="1385" height="877" />
     </state>
     <state width="1419" height="234" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593311452821" />
     <state width="1364" height="219" key="GridCell.Tab.1.right/53.23.1387.877@53.23.1387.877" timestamp="1593942731485" />
-    <state width="1364" height="219" key="GridCell.Tab.1.right/55.23.1385.877@55.23.1385.877" timestamp="1593943285869" />
+    <state width="1364" height="219" key="GridCell.Tab.1.right/55.23.1385.877@55.23.1385.877" timestamp="1594003438827" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1593241983889">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

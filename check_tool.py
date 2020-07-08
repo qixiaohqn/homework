@@ -5,6 +5,7 @@
 3、调用lianxi类中的方法
 '''
 from unitcase.lianxi import lianxi
+from unitcase.function_homework import function
 
 class check_tool(lianxi):
     hp=lianxi()
@@ -13,6 +14,10 @@ class check_tool(lianxi):
     print(hp.factorial_list())
     print(hp.Prime_number())
 
+class check_function(function):
+    hp=function.sum(2,3)
+    hl=function.sum1(3,4)
+    print(hl)
 
 
 
