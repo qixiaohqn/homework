@@ -1,3 +1,7 @@
+'''
+'''
+
+
 #1、位置函数
 class function(object):
     def sum(a,b):
@@ -9,21 +13,26 @@ class function(object):
     def add_end(len=[]):
         len.append('end')
         return len
+
     #3、可变参数 *args
     def calc(*number):
         print(number)
         print(*number)
         sum=0
+
         for n in number:
             sum+=n
         return n
+
     #4、关键字参数 **kwargs
     def person(name,age,**kwargs):
-        print('name',name,'age',age,kwargs)
+        print(name,'age',age,kwargs)
+
+
 
 if __name__ == '__main__':
-    print(sum(1,2))
-    print(sum1(5,6))
-    print(add_end())
-    print(calc(9,6))
-    print(person('xiaohong',20,sex='fmale'))
+    print(function.sum(1,2))
+    print(function.sum1(5,6))
+    print(function.add_end())
+    print(function.calc(9))
+    function.person('xiaohong', 20, sex='fmale')

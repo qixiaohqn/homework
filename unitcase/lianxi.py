@@ -54,16 +54,31 @@ class lianxi(object):
                 list1.append(list1[i-2]+list1[i-1])
         return list1
 # 5、求10000以内的质数
-    def Prime_number (self):
+    def Prime_number1 (self):
         list1=[]
-        for i in range (2,10):
+        for i in range (1,20):
             flg=True
 
             for j in range (2,i):
                 if i%j==0:
                     flg=False
+                    break
             if flg:
                 list1.append(i)
+        return list1
+    def Prime_number2 (self):
+        list1=[]
+        for i in range (1,20):
+            if i==1 or i==2:
+                list1.append(i)
+            else:
+                for j in range (2,i):
+                    if i % j==0:
+                        break
+                    elif j==i-1:
+                     list1.append(i)
+
+
         return list1
 
 
@@ -71,6 +86,6 @@ class lianxi(object):
 
 if __name__ == '__main__':
     a=lianxi()
-    print(a.Prime_number())
+    print(a.Prime_number2())
 
 

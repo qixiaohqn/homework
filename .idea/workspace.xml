@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691e6521-3d7b-486d-befc-13ed08ae1f84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unitcase/String_lianxi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/check_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_tool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read_write_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_write_io.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unitcase/function_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/unitcase/function_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitcase/lianxi.py" beforeDir="false" afterPath="$PROJECT_DIR$/unitcase/lianxi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
       <recent name="$PROJECT_DIR$/unitcase" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Student">
+  <component name="RunManager" selected="Python.String_lianxi">
     <configuration name="Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +53,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String_lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unitcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unitcase/String_lianxi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,28 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="check_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_tool.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="daoruyichang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unitcase/daoruyichang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unitcase/function_homework.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_write_io" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unitcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_write_io.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unitcase/lianxi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.String_lianxi" />
+        <item itemvalue="Python.lianxi" />
+        <item itemvalue="Python.function_homework" />
         <item itemvalue="Python.Student" />
         <item itemvalue="Python.Person" />
-        <item itemvalue="Python.check_tool" />
-        <item itemvalue="Python.read_write_io" />
-        <item itemvalue="Python.daoruyichang" />
       </list>
     </recent_temporary>
   </component>
@@ -184,52 +182,52 @@
     </state>
     <state x="447" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594170856546" />
     <state x="482" y="271" key="#com.intellij.fileTypes.FileTypeChooser/51.23.1389.877@51.23.1389.877" timestamp="1593940103415" />
-    <state width="1419" height="238" key="GridCell.Tab.0.bottom" timestamp="1594173349449">
+    <state width="1419" height="253" key="GridCell.Tab.0.bottom" timestamp="1594549160324">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594173349449" />
+    <state width="1419" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594549160324" />
     <state width="1364" height="144" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1593942818073" />
-    <state width="1364" height="238" key="GridCell.Tab.0.bottom/55.23.1385.877@55.23.1385.877" timestamp="1594169728420" />
-    <state width="1419" height="238" key="GridCell.Tab.0.center" timestamp="1594173349448">
+    <state width="1364" height="238" key="GridCell.Tab.0.bottom/55.23.1385.877@55.23.1385.877" timestamp="1594540257604" />
+    <state width="1419" height="253" key="GridCell.Tab.0.center" timestamp="1594549160320">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594173349448" />
+    <state width="1419" height="253" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594549160320" />
     <state width="1364" height="144" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1593942818072" />
-    <state width="1364" height="238" key="GridCell.Tab.0.center/55.23.1385.877@55.23.1385.877" timestamp="1594169728419" />
-    <state width="1419" height="238" key="GridCell.Tab.0.left" timestamp="1594173349447">
+    <state width="1364" height="238" key="GridCell.Tab.0.center/55.23.1385.877@55.23.1385.877" timestamp="1594540257603" />
+    <state width="1419" height="253" key="GridCell.Tab.0.left" timestamp="1594549160315">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594173349447" />
+    <state width="1419" height="253" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594549160315" />
     <state width="1364" height="144" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1593942818071" />
-    <state width="1364" height="238" key="GridCell.Tab.0.left/55.23.1385.877@55.23.1385.877" timestamp="1594169728418" />
-    <state width="1419" height="238" key="GridCell.Tab.0.right" timestamp="1594173349449">
+    <state width="1364" height="238" key="GridCell.Tab.0.left/55.23.1385.877@55.23.1385.877" timestamp="1594540257602" />
+    <state width="1419" height="253" key="GridCell.Tab.0.right" timestamp="1594549160323">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594173349449" />
+    <state width="1419" height="253" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594549160323" />
     <state width="1364" height="144" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1593942818072" />
-    <state width="1364" height="238" key="GridCell.Tab.0.right/55.23.1385.877@55.23.1385.877" timestamp="1594169728419" />
-    <state width="1364" height="219" key="GridCell.Tab.1.bottom" timestamp="1594003438827">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1364" height="238" key="GridCell.Tab.0.right/55.23.1385.877@55.23.1385.877" timestamp="1594540257604" />
+    <state width="1419" height="264" key="GridCell.Tab.1.bottom" timestamp="1594544242336">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="234" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593311452822" />
+    <state width="1419" height="264" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594544242336" />
     <state width="1364" height="219" key="GridCell.Tab.1.bottom/53.23.1387.877@53.23.1387.877" timestamp="1593942731486" />
     <state width="1364" height="219" key="GridCell.Tab.1.bottom/55.23.1385.877@55.23.1385.877" timestamp="1594003438827" />
-    <state width="1364" height="219" key="GridCell.Tab.1.center" timestamp="1594003438826">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1419" height="264" key="GridCell.Tab.1.center" timestamp="1594544242335">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="234" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593311452821" />
+    <state width="1419" height="264" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1594544242335" />
     <state width="1364" height="219" key="GridCell.Tab.1.center/53.23.1387.877@53.23.1387.877" timestamp="1593942731485" />
     <state width="1364" height="219" key="GridCell.Tab.1.center/55.23.1385.877@55.23.1385.877" timestamp="1594003438826" />
-    <state width="1364" height="219" key="GridCell.Tab.1.left" timestamp="1594003438826">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1419" height="264" key="GridCell.Tab.1.left" timestamp="1594544242334">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="234" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593311452820" />
+    <state width="1419" height="264" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1594544242334" />
     <state width="1364" height="219" key="GridCell.Tab.1.left/53.23.1387.877@53.23.1387.877" timestamp="1593942731484" />
     <state width="1364" height="219" key="GridCell.Tab.1.left/55.23.1385.877@55.23.1385.877" timestamp="1594003438826" />
-    <state width="1364" height="219" key="GridCell.Tab.1.right" timestamp="1594003438827">
-      <screen x="55" y="23" width="1385" height="877" />
+    <state width="1419" height="264" key="GridCell.Tab.1.right" timestamp="1594544242335">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="234" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593311452821" />
+    <state width="1419" height="264" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594544242335" />
     <state width="1364" height="219" key="GridCell.Tab.1.right/53.23.1387.877@53.23.1387.877" timestamp="1593942731485" />
     <state width="1364" height="219" key="GridCell.Tab.1.right/55.23.1385.877@55.23.1385.877" timestamp="1594003438827" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1593241983889">
